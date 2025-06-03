@@ -5,6 +5,8 @@
 
 This project is a simple Flask app that connects to a PostgreSQL database running in Docker Container, means you dont have to install postgres on your system
 
+![FIRST LOOK](first_look.png)
+
 It allows you to add users with name and age, and displays them in a neat UI.
 
 ---
